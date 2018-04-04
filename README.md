@@ -17,5 +17,5 @@ A __huge__ outstanding issue is how to deal with ADTs and interfaces.
  1. The adjacency-list graph from the baby-names-task is a candidate
  1. a Skiplist would be interesting
  1. Tries
-  1. character/rune-based for strings
-  1. something more general...
+    1. character/rune-based for strings
+    1. something more general...
