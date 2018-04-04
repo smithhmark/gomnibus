@@ -7,11 +7,11 @@ This package is currently organized by implementation structure. Eg, implementat
 A __huge__ outstanding issue is how to deal with ADTs and interfaces.
 
 ## Structures So Far
- a. Singly-linked list
-  a. Stack
-  a. Stack-based Queue
- a. Doubly-linked list
-  a. Queue
+ 1. Singly-linked list
+    1. Stack
+    1. Stack-based Queue
+ 1. Doubly-linked list
+    1. Queue
   
 ## Future structures
  1. The adjacency-list graph from the baby-names-task is a candidate
